@@ -1,0 +1,4325 @@
+{
+  "YRA1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "mRNA DBP2 binding"
+  },
+  "WTM1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "VMA2": {
+    "Cluster_Name": "V-type_ATPases",
+    "SubCluster_Name": "no"
+  },
+  "VMA1": {
+    "Cluster_Name": "V-type_ATPases",
+    "SubCluster_Name": "no"
+  },
+  "VMA8": {
+    "Cluster_Name": "V-type_ATPases",
+    "SubCluster_Name": "no"
+  },
+  "VMA6": {
+    "Cluster_Name": "V-type_ATPases",
+    "SubCluster_Name": "no"
+  },
+  "BFR1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "UBA4": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TSA1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YPR148C": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PSY4": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MEC1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "RPN11": {
+    "Cluster_Name": "ubiquitin_proteasome_system (UPS)",
+    "SubCluster_Name": "no"
+  },
+  "RKR1": {
+    "Cluster_Name": "ubiquitin_proteasome_system (UPS)",
+    "SubCluster_Name": "no"
+  },
+  "CUE5": {
+    "Cluster_Name": "ubiquitin_proteasome_system (UPS)",
+    "SubCluster_Name": "no"
+  },
+  "SAN1": {
+    "Cluster_Name": "ubiquitin_proteasome_system (UPS)",
+    "SubCluster_Name": "no"
+  },
+  "RSP5": {
+    "Cluster_Name": "ubiquitin_proteasome_system (UPS)",
+    "SubCluster_Name": "no"
+  },
+  "UFD4": {
+    "Cluster_Name": "ubiquitin_proteasome_system (UPS)",
+    "SubCluster_Name": "no"
+  },
+  "UBR1": {
+    "Cluster_Name": "ubiquitin_proteasome_system (UPS)",
+    "SubCluster_Name": "no"
+  },
+  "TUB2": {
+    "Cluster_Name": "Cytoskeleton",
+    "SubCluster_Name": "Tubulin"
+  },
+  "TUB1": {
+    "Cluster_Name": "Cytoskeleton",
+    "SubCluster_Name": "Tubulin"
+  },
+  "TEL2": {
+    "Cluster_Name": "TTT_complex",
+    "SubCluster_Name": "no"
+  },
+  "TTI2": {
+    "Cluster_Name": "TTT_complex",
+    "SubCluster_Name": "no"
+  },
+  "TTI1": {
+    "Cluster_Name": "TTT_complex",
+    "SubCluster_Name": "no"
+  },
+  "GRS1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "MES1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "TYS1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "DPS1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "FRS1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "GUS1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "VAS1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "SES1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "ALA1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "ILS1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "DED81": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "YDR341C": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "THS1": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "GLN4": {
+    "Cluster_Name": "tRNA_ligase",
+    "SubCluster_Name": "no"
+  },
+  "CCT4": {
+    "Cluster_Name": "TRiC/CCT",
+    "SubCluster_Name": "no"
+  },
+  "CCT3": {
+    "Cluster_Name": "TRiC/CCT",
+    "SubCluster_Name": "no"
+  },
+  "CCT8": {
+    "Cluster_Name": "TRiC/CCT",
+    "SubCluster_Name": "no"
+  },
+  "TCP1": {
+    "Cluster_Name": "TRiC/CCT",
+    "SubCluster_Name": "no"
+  },
+  "CCT2": {
+    "Cluster_Name": "TRiC/CCT",
+    "SubCluster_Name": "no"
+  },
+  "CCT6": {
+    "Cluster_Name": "TRiC/CCT",
+    "SubCluster_Name": "no"
+  },
+  "CCT7": {
+    "Cluster_Name": "TRiC/CCT",
+    "SubCluster_Name": "no"
+  },
+  "CCT5": {
+    "Cluster_Name": "TRiC/CCT",
+    "SubCluster_Name": "no"
+  },
+  "PLP2": {
+    "Cluster_Name": "TRiC/CCT",
+    "SubCluster_Name": "no"
+  },
+  "TPS1": {
+    "Cluster_Name": "trehalose_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "TPS2": {
+    "Cluster_Name": "trehalose_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "YPT31": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "YPT7": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "GVP36": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "RET2": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "VPS1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "YPT1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "SEC4": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "YPT6": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "SRP1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "VTI1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "CHC1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "CPS1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "SEC27": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "COP1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "MLC1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "KAP123": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "VPS74": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "SEC21": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "BET3": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "ATG20": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "SFT2": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "GSP1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "RRBe_put"
+  },
+  "YPT52": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "SEC26": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "TRS31": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "BBC1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "PHO84": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "SEC23": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "LEM3": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "SNX4": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "ECM29": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "SEC7": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "FET4": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "HXT3": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "HXT6": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "VAC8": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "VTC4": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "VID27": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "PEP1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "VTC2": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "KAP104": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "PSE1": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "PDR5": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "DNF2": {
+    "Cluster_Name": "transport",
+    "SubCluster_Name": "no"
+  },
+  "TEF1 or TEF2": {
+    "Cluster_Name": "Eukaryotic_elongation_factors",
+    "SubCluster_Name": "ribo-eEF1alpha"
+  },
+  "EFT1 or EFT2": {
+    "Cluster_Name": "Eukaryotic_elongation_factors",
+    "SubCluster_Name": "ribo-eEF2"
+  },
+  "HYP2": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF5A1"
+  },
+  "YEF3": {
+    "Cluster_Name": "Eukaryotic_elongation_factors",
+    "SubCluster_Name": "ribo-eEF3A"
+  },
+  "CDC33": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF4E"
+  },
+  "GCD11": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF2gamma"
+  },
+  "TEF4": {
+    "Cluster_Name": "Eukaryotic_elongation_factors",
+    "SubCluster_Name": "ribo-eEF1Bgamma2"
+  },
+  "SUI2": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF2alpha"
+  },
+  "CAM1": {
+    "Cluster_Name": "Eukaryotic_elongation_factors",
+    "SubCluster_Name": "ribo-eEF1Bgamma1"
+  },
+  "YGR054W": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF2A"
+  },
+  "TIF4631": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF4G1"
+  },
+  "FUN12": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF5B,pre40S-related"
+  },
+  "NIP1": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF3c"
+  },
+  "SUI3": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF2beta"
+  },
+  "GCN3": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF2Balpha"
+  },
+  "RPG1": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF3a"
+  },
+  "GCD2": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF2Bdelta"
+  },
+  "TMA46": {
+    "Cluster_Name": "translation_related",
+    "SubCluster_Name": "no"
+  },
+  "GCD7": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF2Bbeta"
+  },
+  "GCD6": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF2Bepsilon"
+  },
+  "TOM22": {
+    "Cluster_Name": "TOM_complex-related_to_JDP",
+    "SubCluster_Name": "no"
+  },
+  "TOM70": {
+    "Cluster_Name": "TOM_complex-related_to_JDP",
+    "SubCluster_Name": "no"
+  },
+  "THI20": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "IDH1": {
+    "Cluster_Name": "TCA_cycle",
+    "SubCluster_Name": "no"
+  },
+  "LAT1": {
+    "Cluster_Name": "TCA_cycle",
+    "SubCluster_Name": "no"
+  },
+  "IDH2": {
+    "Cluster_Name": "TCA_cycle",
+    "SubCluster_Name": "no"
+  },
+  "ACO1": {
+    "Cluster_Name": "TCA_cycle",
+    "SubCluster_Name": "no"
+  },
+  "PYC1": {
+    "Cluster_Name": "TCA_cycle",
+    "SubCluster_Name": "no"
+  },
+  "YAF9": {
+    "Cluster_Name": "SWR1_complex",
+    "SubCluster_Name": "no"
+  },
+  "SWC4": {
+    "Cluster_Name": "SWR1_complex",
+    "SubCluster_Name": "no"
+  },
+  "SWC5": {
+    "Cluster_Name": "SWR1_complex",
+    "SubCluster_Name": "MCM"
+  },
+  "SWR1": {
+    "Cluster_Name": "SWR1_complex",
+    "SubCluster_Name": "no"
+  },
+  "VPS71": {
+    "Cluster_Name": "SWR1_complex",
+    "SubCluster_Name": "no"
+  },
+  "SWC3": {
+    "Cluster_Name": "SWR1_complex",
+    "SubCluster_Name": "no"
+  },
+  "ARP6": {
+    "Cluster_Name": "SWR1_complex",
+    "SubCluster_Name": "no"
+  },
+  "VPS72": {
+    "Cluster_Name": "SWR1_complex",
+    "SubCluster_Name": "no"
+  },
+  "SWI3": {
+    "Cluster_Name": "SWI/SNF_complex",
+    "SubCluster_Name": "no"
+  },
+  "STM1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "ribo-binding"
+  },
+  "SCP160": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "KH, cytoplasm"
+  },
+  "CBC2": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "CBP20, cap-binding"
+  },
+  "LHP1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "La, CD biogenesis"
+  },
+  "HSP42": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "EDE1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "RIM1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "POR1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "DSS4": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TIM44": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "REP2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YCR087C-A": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YDL124W": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CLU1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ARC19": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SEH1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "AHP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HOM6": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "LSM4": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "RRBe_put"
+  },
+  "ARC1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TY1B-DR5": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HEM15": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "GRX7": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SRO9": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "RRB_RBP"
+  },
+  "SUP45": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "ribo-eRF1"
+  },
+  "ASA1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HSP104": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PLP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "QNS1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SPT15": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YPL199C": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HOR2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MSC1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "RVS161": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TAF5": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MGM101": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ATG27": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YLR290C": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CBR1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PGM2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "LST8": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MUK1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PET9": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "DET1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ADO1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HEM2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YBL104C/YBL103C-A": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "REP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PRT1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "ribo-eIF3b"
+  },
+  "SCW4": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "OLA1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SKI8": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "OYE3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MIA40": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "FTR1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CDC12": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MKT1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SIP2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "NAP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ECM33": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ISN1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "LSB3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "KGD2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "FKS1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "GPA1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "DUG1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SRM1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "RRBe_put"
+  },
+  "GLO3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "NFS1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PRP19": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TAF6": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MCX1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CDC3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YDL156W": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ALO1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SRV2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "APE3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SRP54": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ELP3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "Elongator"
+  },
+  "ABP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ADE17": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SPT8": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "NPR2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "EMP70": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ACS2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TUP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PBP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "DNM1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "NTH2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "AMD1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "NSP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PUF3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "VAC14": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TMA108": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TSL1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "VIP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SSD1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "NUP145": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ADE6": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CYR1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "RTN1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "NPL6": {
+    "Cluster_Name": "RSC_complex",
+    "SubCluster_Name": "no"
+  },
+  "RSC8": {
+    "Cluster_Name": "RSC_complex",
+    "SubCluster_Name": "no"
+  },
+  "RSC6": {
+    "Cluster_Name": "RSC_complex",
+    "SubCluster_Name": "no"
+  },
+  "RSC9": {
+    "Cluster_Name": "RSC_complex",
+    "SubCluster_Name": "no"
+  },
+  "RSC4": {
+    "Cluster_Name": "RSC_complex",
+    "SubCluster_Name": "no"
+  },
+  "STH1": {
+    "Cluster_Name": "RSC_complex",
+    "SubCluster_Name": "no"
+  },
+  "RSC3": {
+    "Cluster_Name": "RSC_complex",
+    "SubCluster_Name": "no"
+  },
+  "RSC2": {
+    "Cluster_Name": "RSC_complex",
+    "SubCluster_Name": "no"
+  },
+  "RPB2": {
+    "Cluster_Name": "RNAP_II",
+    "SubCluster_Name": "no"
+  },
+  "RPB11": {
+    "Cluster_Name": "RNAP_II",
+    "SubCluster_Name": "no"
+  },
+  "RPB5": {
+    "Cluster_Name": "RNAP_II",
+    "SubCluster_Name": "no"
+  },
+  "RPO21": {
+    "Cluster_Name": "RNAP_II",
+    "SubCluster_Name": "no"
+  },
+  "RPA34": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "Pol1_RRB"
+  },
+  "RPC40": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "Pol1_RRB"
+  },
+  "RPC19": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "Pol1_RRB"
+  },
+  "RPA49": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "Pol1_RRB"
+  },
+  "RPA190": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "Pol1_RRBe"
+  },
+  "RPC53": {
+    "Cluster_Name": "RNAP_III",
+    "SubCluster_Name": "RRB_Pol3"
+  },
+  "RPC37": {
+    "Cluster_Name": "RNAP_III",
+    "SubCluster_Name": "RRB_Pol3"
+  },
+  "RPA135": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "Pol1_RRB"
+  },
+  "RPA43": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "Pol1_RRB"
+  },
+  "RPC82": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "no"
+  },
+  "DED1": {
+    "Cluster_Name": "RNA_helicase",
+    "SubCluster_Name": "ribo-Hel"
+  },
+  "TIF1 or TIF2": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF4A"
+  },
+  "SUB2": {
+    "Cluster_Name": "RNA_helicase",
+    "SubCluster_Name": "no"
+  },
+  "DBP5": {
+    "Cluster_Name": "RNA_helicase",
+    "SubCluster_Name": "Hel-mRNA"
+  },
+  "DHH1": {
+    "Cluster_Name": "RNA_helicase",
+    "SubCluster_Name": "no"
+  },
+  "YLR419W": {
+    "Cluster_Name": "RNA_helicase",
+    "SubCluster_Name": "no"
+  },
+  "CDC48": {
+    "Cluster_Name": "ribosome-associated_quality_control (RQC)",
+    "SubCluster_Name": "no"
+  },
+  "GCN1": {
+    "Cluster_Name": "ribosome-associated_quality_control (RQC)",
+    "SubCluster_Name": "no"
+  },
+  "TAE2": {
+    "Cluster_Name": "ribosome-associated_quality_control (RQC)",
+    "SubCluster_Name": "no"
+  },
+  "YDR333C": {
+    "Cluster_Name": "ribosome-associated_quality_control (RQC)",
+    "SubCluster_Name": "no"
+  },
+  "CCR4": {
+    "Cluster_Name": "ribosome-associated_quality_control (RQC)",
+    "SubCluster_Name": "no"
+  },
+  "CDC39": {
+    "Cluster_Name": "ribosome-associated_quality_control (RQC)",
+    "SubCluster_Name": "no"
+  },
+  "RPS9A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS4, SSU+ 5C 1"
+  },
+  "RPS18A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS13, SSU? H 2"
+  },
+  "RPS16A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS9, SSU+ H 1"
+  },
+  "RPS14A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS11, SSU+ C 1"
+  },
+  "RPS1A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS1, SSU+ C 1"
+  },
+  "RPS1B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS1, SSU+ C 1"
+  },
+  "RPS4A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS4, SSU+ 5C"
+  },
+  "RPS25B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS25, SSU H 3"
+  },
+  "RPS25A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS25, SSU H 3"
+  },
+  "RPS11A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS17, SSU+ 5C 1"
+  },
+  "RPS17A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS17, SSU? H"
+  },
+  "RPS7A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS7, SSU+ C 3"
+  },
+  "RPS20": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS10, SSU H 3"
+  },
+  "RPS3": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS3, SSU H 2"
+  },
+  "RPS31": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS31, SSU+ H 3"
+  },
+  "RPS19A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS19, SSU? H 2"
+  },
+  "RPS6A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS6, SSU+ 5 1"
+  },
+  "RPS8A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS8, SSU+ 5 1"
+  },
+  "RPS12": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS12, SSU+ H 3"
+  },
+  "RPS7B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS7, SSU+ C 3"
+  },
+  "RPS22A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS8, SSU+ C 3"
+  },
+  "RPS2": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS5, SSU 5CH 2"
+  },
+  "RPS5": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS7, SSU+ H 2"
+  },
+  "RPS27A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS27, SSU+ C 1"
+  },
+  "RPS10B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS10, SSU- H 3"
+  },
+  "RPS10A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS10, SSU- H 3"
+  },
+  "RPS13": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS15, SSU+ C 3"
+  },
+  "ASC1": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "RACK1, SSU- H 3"
+  },
+  "RPS0A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS2, SSU CH 2"
+  },
+  "RPS23A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS12, SSU+ 5C 1"
+  },
+  "RPS26A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS26, SSU- C 3"
+  },
+  "RPS21A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS21, SSU 5CH"
+  },
+  "RPS15": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS19, SSU H 2"
+  },
+  "RPS29A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS14, SSU H 3"
+  },
+  "RPS28A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS28, SSU+ H 3"
+  },
+  "RPS28B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS28, SSU+ H 3"
+  },
+  "RPL20A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL20, LSU A3 D25Sd1 en Ass-D236"
+  },
+  "RPL10": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL16, LSU C2 D2 cy Ass-D6"
+  },
+  "RPL35A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL29, LSU C2*** D1 mn tail Ass-D2"
+  },
+  "RPL25": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL23, LSU C2*** D3d1d5 mn Ass-D6"
+  },
+  "RPL27A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL27, LSU C2*** D3 mn Ass-D1"
+  },
+  "RPL16B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL13, LSU D2D6"
+  },
+  "RPL16A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL13, LSU A3 D2D6 en Ass-D2"
+  },
+  "RPL2A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL2, LSU C2* D4D5d3 ln Ass-D6"
+  },
+  "RPL8A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL8, LSU A3 D1d5 en pwp1 Ass-D1"
+  },
+  "RPL8B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL8, LSU D1d5"
+  },
+  "RPL24A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL24, LSU - D6 cy Ass-D6"
+  },
+  "RPL26B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL24, LSU D1"
+  },
+  "RPL26A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL24, LSU C2 D1 mn Ass-?"
+  },
+  "RPL1A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL1, LSU C2 D5 en H76 Ass-D5"
+  },
+  "RPL3": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL3, LSU A3 D6 en Ass-D6"
+  },
+  "RPL6B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL6, LSU A3 D6d1"
+  },
+  "RPL6A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL6, LSU A3 D6d1 en Ass-D2"
+  },
+  "RPL19A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL19, LSU C2*** D3d4 mn Ass-D6"
+  },
+  "RPL13A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL13, LSU C2 D1 en Ass-D1"
+  },
+  "RPL13B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL13, LSU D1"
+  },
+  "RPL18A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL18, LSU A3 D2 en Ass-D3"
+  },
+  "RPL14A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL14, LSU ? d6d1 nu Ass-D2"
+  },
+  "RPL24B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL24, LSU D6 cy"
+  },
+  "RPL32": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL32, LSU A3 D2 en Ass-D36"
+  },
+  "RPL30": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL30, LSU ? D3 nu Ass-D36"
+  },
+  "RPL43A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL43, LSU C2* D3D4 ln Ass-D6"
+  },
+  "RPL7A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL30, LSU A3 D2d1 en Ass-D2"
+  },
+  "RPL17A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL22, LSU C2* D1d2-6 mn Ass-D6"
+  },
+  "RPL21A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL21, LSU C2* D5d2 ln Ass-D26"
+  },
+  "RPL33A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL33, LSU A3 d1d2d6 en Ass-D2"
+  },
+  "RPL7B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL30, LSU D2d1"
+  },
+  "RPL11A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL5, LSU C2** D55S en B Ass-?"
+  },
+  "RPL15A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL15, LSU ? D1d5 nu pwp1 Ass-D1"
+  },
+  "RPL12A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL11, LSU C2 D2 ln Ass-D6"
+  },
+  "RPL28": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL15, LSU C2* D2d1d5 ln tail Ass-D6"
+  },
+  "RPL4A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL4, LSU A3 D2d1 tail en Ass-D3"
+  },
+  "RPL15B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL15, LSU D1d5 pwp1"
+  },
+  "RPL9A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL6, LSU C2* D6 mn Ass-D6"
+  },
+  "RPL34B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL34, LSU D3 buried"
+  },
+  "RPL34A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL34, LSU C2*** D3 mn buried Ass-D6"
+  },
+  "RPL5": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL18, LSU C2* 5SD5 B en Ass-D5"
+  },
+  "RPL36B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL36, LSU D1"
+  },
+  "RPL36A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL36, LSU A3 D1 ln-cy Ass-D2?"
+  },
+  "RPL38": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL38, LSU ? D6 nu Ass-?"
+  },
+  "RPL23A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL14, LSU C2*** d6d4d5 mn Ass-D6"
+  },
+  "RPL31A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL31, LSU C2 D6d3 mn Ass-D6?"
+  },
+  "RPP0": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL10, LSU C2 D2 cy Ass-D1?"
+  },
+  "RPL42A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL42, LSU ? D5 cy Ass-?"
+  },
+  "RPL37A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL37, LSU C2* D1 mn Ass-?"
+  },
+  "RPP2B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "P2, LSU P cy"
+  },
+  "RPP2A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "P2, LSU C2 P cy Ass-?"
+  },
+  "QCR2": {
+    "Cluster_Name": "Respiratory_chain_complex",
+    "SubCluster_Name": "no"
+  },
+  "ATP2": {
+    "Cluster_Name": "Respiratory_chain_complex",
+    "SubCluster_Name": "no"
+  },
+  "ATP1": {
+    "Cluster_Name": "Respiratory_chain_complex",
+    "SubCluster_Name": "no"
+  },
+  "COR1": {
+    "Cluster_Name": "Respiratory_chain_complex",
+    "SubCluster_Name": "no"
+  },
+  "RFC3": {
+    "Cluster_Name": "Replication_factor",
+    "SubCluster_Name": "no"
+  },
+  "RFC2": {
+    "Cluster_Name": "Replication_factor",
+    "SubCluster_Name": "no"
+  },
+  "RFA1": {
+    "Cluster_Name": "Replication_factor",
+    "SubCluster_Name": "no"
+  },
+  "RFA2": {
+    "Cluster_Name": "Replication_factor",
+    "SubCluster_Name": "no"
+  },
+  "RFC5": {
+    "Cluster_Name": "Replication_factor",
+    "SubCluster_Name": "no"
+  },
+  "RFC1": {
+    "Cluster_Name": "Replication_factor",
+    "SubCluster_Name": "no"
+  },
+  "PIH1": {
+    "Cluster_Name": "R2TP",
+    "SubCluster_Name": "no",
+    "Details": "RRBe_put, PIH1D1, snoRNP biogenesis"
+  },
+  "TAH1": {
+    "Cluster_Name": "R2TP",
+    "SubCluster_Name": "no",
+    "Details": "RPAP3,  snoRNP biogenesis"
+  },
+  "RVB2": {
+    "Cluster_Name": "Rvb1/2",
+    "SubCluster_Name": "no",
+    "Details": "R2TP, RUVBL2, AAA+  snoRNP biogenesis"
+  },
+  "RVB1": {
+    "Cluster_Name": "Rvb1/2",
+    "SubCluster_Name": "no",
+    "Details": "R2TP, RUVBL1, AAA+  snoRNP biogenesis"
+  },
+  "LPD1": {
+    "Cluster_Name": "Pyruvate_dehydrogenase_complex",
+    "SubCluster_Name": "no"
+  },
+  "PDB1": {
+    "Cluster_Name": "Pyruvate_dehydrogenase_complex",
+    "SubCluster_Name": "no"
+  },
+  "PDA1": {
+    "Cluster_Name": "Pyruvate_dehydrogenase_complex",
+    "SubCluster_Name": "no"
+  },
+  "LTV1": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "no"
+  },
+  "TSR1": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "no"
+  },
+  "RIO2": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "no"
+  },
+  "RLI1": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "minor"
+  },
+  "HRR25": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "no"
+  },
+  "NOB1": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "no"
+  },
+  "PTC3": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "minor"
+  },
+  "DIM1": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "no"
+  },
+  "NEW1": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "related"
+  },
+  "PMA1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "GND1": {
+    "Cluster_Name": "pentose_phosphate_cycle",
+    "SubCluster_Name": "no"
+  },
+  "TKL1": {
+    "Cluster_Name": "pentose_phosphate_cycle",
+    "SubCluster_Name": "no"
+  },
+  "PDI1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PAF1": {
+    "Cluster_Name": "PAF1_complex",
+    "SubCluster_Name": "no"
+  },
+  "RTF1": {
+    "Cluster_Name": "PAF1_complex",
+    "SubCluster_Name": "no"
+  },
+  "LEO1": {
+    "Cluster_Name": "PAF1_complex",
+    "SubCluster_Name": "no"
+  },
+  "CDC73": {
+    "Cluster_Name": "PAF1_complex",
+    "SubCluster_Name": "no"
+  },
+  "CTR9": {
+    "Cluster_Name": "PAF1_complex",
+    "SubCluster_Name": "no"
+  },
+  "PAB1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "PA-binding, cyto and nuclear"
+  },
+  "PAA1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SPT5": {
+    "Cluster_Name": "Elongation_factors",
+    "SubCluster_Name": "no"
+  },
+  "SPT6": {
+    "Cluster_Name": "Elongation_factors",
+    "SubCluster_Name": "no"
+  },
+  "IMD3": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "URA2": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "IMD4": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "ADE3": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "ADE2": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "\"ADE5,7\"": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "GUA1": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "URA1": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "ADE13": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "URA7": {
+    "Cluster_Name": "nucleotide_synthesis",
+    "SubCluster_Name": "no"
+  },
+  "EGD1": {
+    "Cluster_Name": "Nascent_polypeptide",
+    "SubCluster_Name": "no"
+  },
+  "EGD2": {
+    "Cluster_Name": "Nascent_polypeptide",
+    "SubCluster_Name": "no"
+  },
+  "ARD1": {
+    "Cluster_Name": "ribo-NatA",
+    "SubCluster_Name": "Nascent_polypeptide"
+  },
+  "NAT1": {
+    "Cluster_Name": "ribo-NatA",
+    "SubCluster_Name": "Nascent_polypeptide"
+  },
+  "MIS1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "RRB_SAM"
+  },
+  "MCM4": {
+    "Cluster_Name": "MCM",
+    "SubCluster_Name": "no"
+  },
+  "MCM6": {
+    "Cluster_Name": "MCM",
+    "SubCluster_Name": "no"
+  },
+  "PSA1": {
+    "Cluster_Name": "mannose_related_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "SEC53": {
+    "Cluster_Name": "mannose_related_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "KTR1": {
+    "Cluster_Name": "mannose_related_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "MNN9": {
+    "Cluster_Name": "mannose_related_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "KRE2": {
+    "Cluster_Name": "mannose_related_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ERG6": {
+    "Cluster_Name": "lipid_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "TSC10": {
+    "Cluster_Name": "lipid_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "TGL1": {
+    "Cluster_Name": "lipid_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ACC1": {
+    "Cluster_Name": "lipid_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ERG27": {
+    "Cluster_Name": "lipid_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ERG26": {
+    "Cluster_Name": "lipid_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ERG1": {
+    "Cluster_Name": "lipid_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "EHT1": {
+    "Cluster_Name": "Lipid_biosynthesis",
+    "SubCluster_Name": "no"
+  },
+  "ISW1": {
+    "Cluster_Name": "ISW1b_complex",
+    "SubCluster_Name": "no"
+  },
+  "IES6": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "IES5": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "ACT1": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "NHP10": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "IES2": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "ARP4": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "ARP8": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "ARP5": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "INO80": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "IES3": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "IES4": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "TAF14": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "IES1": {
+    "Cluster_Name": "INO80_complex",
+    "SubCluster_Name": "no"
+  },
+  "AHA1": {
+    "Cluster_Name": "Hsp90s_co-factors",
+    "SubCluster_Name": "no"
+  },
+  "SSA2": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone Arx1"
+  },
+  "SSA1": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone Arx1"
+  },
+  "YDJ1": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "no"
+  },
+  "SSB1": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone RAC"
+  },
+  "SSB2": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone RAC"
+  },
+  "SSA4": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone"
+  },
+  "SSC1": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "no"
+  },
+  "SSE1": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone"
+  },
+  "KAR2": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone"
+  },
+  "SSZ1": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone RAC"
+  },
+  "ZUO1": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone RAC"
+  },
+  "SSE2": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone"
+  },
+  "SIS1": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "no"
+  },
+  "CDC28": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "no"
+  },
+  "HSP26": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HSC82": {
+    "Cluster_Name": "Hsp90s_co-factors",
+    "SubCluster_Name": "no"
+  },
+  "HSP82": {
+    "Cluster_Name": "Hsp90s_co-factors",
+    "SubCluster_Name": "no"
+  },
+  "HHF1 or HHF2": {
+    "Cluster_Name": "Histones",
+    "SubCluster_Name": "no"
+  },
+  "HTB1": {
+    "Cluster_Name": "Histones",
+    "SubCluster_Name": "no"
+  },
+  "HHT2": {
+    "Cluster_Name": "Histones",
+    "SubCluster_Name": "no"
+  },
+  "HTA1": {
+    "Cluster_Name": "Histones",
+    "SubCluster_Name": "no"
+  },
+  "HTZ1": {
+    "Cluster_Name": "Histones",
+    "SubCluster_Name": "no"
+  },
+  "HHO1": {
+    "Cluster_Name": "Histones",
+    "SubCluster_Name": "no"
+  },
+  "RPD3": {
+    "Cluster_Name": "Histone_deacetylases",
+    "SubCluster_Name": "no"
+  },
+  "HOS1": {
+    "Cluster_Name": "Histone_deacetylases",
+    "SubCluster_Name": "no"
+  },
+  "CBF5": {
+    "Cluster_Name": "H/ACA_snoRNP",
+    "SubCluster_Name": "90S-C= HACA"
+  },
+  "SHQ1": {
+    "Cluster_Name": "H/ACA_snoRNP",
+    "SubCluster_Name": "no"
+  },
+  "NHP2": {
+    "Cluster_Name": "H/ACA_snoRNP",
+    "SubCluster_Name": "90S-C= HACA"
+  },
+  "GTT1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CDC19": {
+    "Cluster_Name": "Glycolysis",
+    "SubCluster_Name": "no"
+  },
+  "PFK26": {
+    "Cluster_Name": "Glycolysis",
+    "SubCluster_Name": "no"
+  },
+  "TPI1": {
+    "Cluster_Name": "Glycolysis",
+    "SubCluster_Name": "no"
+  },
+  "PFK2": {
+    "Cluster_Name": "Glycolysis",
+    "SubCluster_Name": "no"
+  },
+  "PFK1": {
+    "Cluster_Name": "Glycolysis",
+    "SubCluster_Name": "no"
+  },
+  "CPR1": {
+    "Cluster_Name": "Glycolysis",
+    "SubCluster_Name": "no"
+  },
+  "HXK1": {
+    "Cluster_Name": "Glycolysis",
+    "SubCluster_Name": "no"
+  },
+  "GLK1": {
+    "Cluster_Name": "Glycolysis",
+    "SubCluster_Name": "no"
+  },
+  "HXK2": {
+    "Cluster_Name": "Glycolysis",
+    "SubCluster_Name": "no"
+  },
+  "UGP1": {
+    "Cluster_Name": "Gluconeogenesis",
+    "SubCluster_Name": "Glycogen biosynthesis"
+  },
+  "GSY2": {
+    "Cluster_Name": "Gluconeogenesis",
+    "SubCluster_Name": "Glycogen biosynthesis"
+  },
+  "GPH1": {
+    "Cluster_Name": "Gluconeogenesis",
+    "SubCluster_Name": "Glycogen biosynthesis"
+  },
+  "ADH1": {
+    "Cluster_Name": "fermentation",
+    "SubCluster_Name": "no"
+  },
+  "PDC1": {
+    "Cluster_Name": "fermentation",
+    "SubCluster_Name": "no"
+  },
+  "ALD6": {
+    "Cluster_Name": "fermentation",
+    "SubCluster_Name": "no"
+  },
+  "ALD4": {
+    "Cluster_Name": "fermentation",
+    "SubCluster_Name": "no"
+  },
+  "ALD5": {
+    "Cluster_Name": "fermentation",
+    "SubCluster_Name": "no"
+  },
+  "ADH3": {
+    "Cluster_Name": "fermentation",
+    "SubCluster_Name": "no"
+  },
+  "FAS1": {
+    "Cluster_Name": "FAS_complex",
+    "SubCluster_Name": "no"
+  },
+  "FAS2": {
+    "Cluster_Name": "FAS_complex",
+    "SubCluster_Name": "no"
+  },
+  "SPT16": {
+    "Cluster_Name": "FACT_complex",
+    "SubCluster_Name": "no"
+  },
+  "POB3": {
+    "Cluster_Name": "FACT_complex",
+    "SubCluster_Name": "no"
+  },
+  "RRP4": {
+    "Cluster_Name": "Exosome",
+    "SubCluster_Name": "c10"
+  },
+  "RRP46": {
+    "Cluster_Name": "Exosome",
+    "SubCluster_Name": "c10"
+  },
+  "SKI6": {
+    "Cluster_Name": "Exosome",
+    "SubCluster_Name": "c10, Rrp41"
+  },
+  "MTR3": {
+    "Cluster_Name": "Exosome",
+    "SubCluster_Name": "c10"
+  },
+  "RRP43": {
+    "Cluster_Name": "Exosome",
+    "SubCluster_Name": "c10"
+  },
+  "RRP6": {
+    "Cluster_Name": "Exosome",
+    "SubCluster_Name": "nu"
+  },
+  "PIL1": {
+    "Cluster_Name": "Eisosomes",
+    "SubCluster_Name": "no"
+  },
+  "LSP1": {
+    "Cluster_Name": "Eisosomes",
+    "SubCluster_Name": "no"
+  },
+  "PST2": {
+    "Cluster_Name": "Eisosomes",
+    "SubCluster_Name": "no"
+  },
+  "YCP4": {
+    "Cluster_Name": "Eisosomes",
+    "SubCluster_Name": "no"
+  },
+  "HGH1": {
+    "Cluster_Name": "eEF2_biogensis",
+    "SubCluster_Name": "RRB_put"
+  },
+  "ARP2": {
+    "Cluster_Name": "Cytoskeleton",
+    "SubCluster_Name": "no"
+  },
+  "ARP3": {
+    "Cluster_Name": "Cytoskeleton",
+    "SubCluster_Name": "no"
+  },
+  "PDS5": {
+    "Cluster_Name": "Cohesion_complex",
+    "SubCluster_Name": "no"
+  },
+  "MCD1": {
+    "Cluster_Name": "Cohesion_complex",
+    "SubCluster_Name": "no"
+  },
+  "SMC3": {
+    "Cluster_Name": "Cohesion_complex",
+    "SubCluster_Name": "no"
+  },
+  "IRR1": {
+    "Cluster_Name": "Cohesion_complex",
+    "SubCluster_Name": "no"
+  },
+  "SMC1": {
+    "Cluster_Name": "Cohesion_complex",
+    "SubCluster_Name": "no"
+  },
+  "ARO1": {
+    "Cluster_Name": "chorismate_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "FOL2": {
+    "Cluster_Name": "chorismate_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ARO8": {
+    "Cluster_Name": "chorismate_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ARO9": {
+    "Cluster_Name": "chorismate_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "GFA1": {
+    "Cluster_Name": "chitin_biosynthesis",
+    "SubCluster_Name": "no"
+  },
+  "CHD1": {
+    "Cluster_Name": "CHD1_complex",
+    "SubCluster_Name": "no"
+  },
+  "TDH3": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Glycolysis"
+  },
+  "TDH2": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Glycolysis"
+  },
+  "GPM1": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Glycolysis"
+  },
+  "PGK1": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Glycolysis"
+  },
+  "ENO2": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Glycolysis"
+  },
+  "ENO1": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Glycolysis"
+  },
+  "FBA1": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Glycolysis"
+  },
+  "PGI1": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Glycolysis"
+  },
+  "FAA4": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Fatty acid oxidation"
+  },
+  "FAA1": {
+    "Cluster_Name": "Cellular_respiration",
+    "SubCluster_Name": "Fatty acid oxidation"
+  },
+  "NOP56": {
+    "Cluster_Name": "C/D_snoRNP",
+    "SubCluster_Name": "90S-U3"
+  },
+  "NOP58": {
+    "Cluster_Name": "C/D_snoRNP",
+    "SubCluster_Name": "90S-U3"
+  },
+  "NOP1": {
+    "Cluster_Name": "C/D_snoRNP",
+    "SubCluster_Name": "90S-U3"
+  },
+  "BMH1": {
+    "Cluster_Name": "BMH_signal_transduction",
+    "SubCluster_Name": "no"
+  },
+  "HSP60": {
+    "Cluster_Name": "BMH_signal_transduction",
+    "SubCluster_Name": "no"
+  },
+  "BMH2": {
+    "Cluster_Name": "BMH_signal_transduction",
+    "SubCluster_Name": "no"
+  },
+  "BGL2": {
+    "Cluster_Name": "BGL2",
+    "SubCluster_Name": "no"
+  },
+  "ABF2": {
+    "Cluster_Name": "ABF2",
+    "SubCluster_Name": "no"
+  },
+  "LEU1": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "SAM1": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "HIS1": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "SHM1": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "LYS12": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "SHM2": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "SAH1": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "GDH1": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "THR4": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ILV2": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "CHA1": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "HOM2": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "GLY1": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ILV5": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "IDP1": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "CYS4": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "MET6": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "CAR2": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "LEU4": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ARO10": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "TRP5": {
+    "Cluster_Name": "aa_metabolism",
+    "SubCluster_Name": "no"
+  },
+  "ENP1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late/pre40S"
+  },
+  "PNO1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late/pre40S"
+  },
+  "NSR1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C="
+  },
+  "CKB2": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C"
+  },
+  "KRR1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C"
+  },
+  "CKA2": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C"
+  },
+  "RRP5": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C"
+  },
+  "NOP14": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "CKA1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C"
+  },
+  "UTP23": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C="
+  },
+  "UTP15": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPA"
+  },
+  "KRE33": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "RRP9": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "U3"
+  },
+  "IMP4": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "MPP10"
+  },
+  "KRI1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C="
+  },
+  "RRP7": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C"
+  },
+  "RRP12": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late/pre40S"
+  },
+  "UTP21": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPB"
+  },
+  "DIP2": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPB"
+  },
+  "UTP5": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPA"
+  },
+  "LCP5": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "no"
+  },
+  "UTP4": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPA"
+  },
+  "UTP22": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C"
+  },
+  "RRP3": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "no"
+  },
+  "BFR2": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "no"
+  },
+  "MPP10": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "MPP10"
+  },
+  "UTP18": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPB"
+  },
+  "ESF1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5="
+  },
+  "UTP8": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPA"
+  },
+  "UTP10": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPA"
+  },
+  "UTP14": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "PWP2": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPB"
+  },
+  "POL5": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "ECM16": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "no"
+  },
+  "UTP20": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "LSG1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "LC GTPase Kre35"
+  },
+  "LOC1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D5-E0M"
+  },
+  "FPR3": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D5-E1M ProIso"
+  },
+  "ARX1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "MC"
+  },
+  "RLP24": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D6 B-E0L"
+  },
+  "NPL3": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "NUG1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "E2L GTPase"
+  },
+  "NOP2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D5 B-E0M RNAMod"
+  },
+  "NMD3": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "LC"
+  },
+  "REH1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "LC"
+  },
+  "NIP7": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D5 B-E0M"
+  },
+  "BRX1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1-pwp1-E0E1 Brix"
+  },
+  "EBP2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1-pwp1-E0E1"
+  },
+  "MRT4": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D2-E0C P0-like"
+  },
+  "TIF6": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D6 B-E0C"
+  },
+  "NOG1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D6 B-E0C GTPase"
+  },
+  "NSA2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ITS1-E2C B"
+  },
+  "ERB1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1 A3C-E0M WD"
+  },
+  "ARB1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "YTM1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1 A3C-E0M WD Mdn1-sub"
+  },
+  "NSA1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D2-E0E1 Rix7-sub"
+  },
+  "HAS1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1/90S A3-E0M Hel"
+  },
+  "CIC1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1 A3C-E0L"
+  },
+  "FPR4": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D5-E1M ProIso"
+  },
+  "REI1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "LC"
+  },
+  "RRS1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D5 B-E0M"
+  },
+  "ECM1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "MC-minor"
+  },
+  "RRP14": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D7-E1E2"
+  },
+  "PUF6": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D4-E1M PUF"
+  },
+  "RSA3": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "URB minor"
+  },
+  "NOP12": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1-pwp1-E0 RRM"
+  },
+  "NOP16": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1-E0M"
+  },
+  "NOG2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ITS1-ML B GTPase"
+  },
+  "DRS1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D3-E0E1 A3? Hel"
+  },
+  "REX2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "no"
+  },
+  "DBP2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "Hel"
+  },
+  "RLP7": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1 A3C-E0L"
+  },
+  "DBP10": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D7 B-E1E2 Hel"
+  },
+  "YVH1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "LC"
+  },
+  "KEM1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "no"
+  },
+  "RRP8": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "NOP13": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor RRM"
+  },
+  "SQT1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor WD"
+  },
+  "SSF1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D7-E1E2 Brix"
+  },
+  "MAK11": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D7 B-E1E1"
+  },
+  "DBP3": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "Hel"
+  },
+  "PWP1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1-pwp1-E0 WD"
+  },
+  "URB2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "URB minor"
+  },
+  "NOP7": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1 A3C-E0L"
+  },
+  "NOC3": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "E2M HEAT"
+  },
+  "NOP4": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D2-E0 RRM"
+  },
+  "NOC2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1NOC-E0M"
+  },
+  "PRP43": {
+    "Cluster_Name": "90S/60S Hel",
+    "SubCluster_Name": "no"
+  },
+  "SDA1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ML"
+  },
+  "TOP1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "RIX7": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "E2E2 AAA+"
+  },
+  "MAK21": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1NOC-E0E1"
+  },
+  "URB1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "URB minor"
+  },
+  "MDN1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ML AAA+ Rea1"
+  },
+  "RPT1": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPT3": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPT6": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPT5": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPT2": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN5": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN8": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN2": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN1": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN3": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "PUP2": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPT4": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "PRE1": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "SCL1": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "90S-minor"
+  },
+  "RPN9": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN10": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN12": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "PRE10": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN13": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "PRE5": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "PRE6": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "PRE9": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN7": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "RPN6": {
+    "Cluster_Name": "26S_proteasome",
+    "SubCluster_Name": "no"
+  },
+  "YIP3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YOP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "KRE6": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SYN8": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YIP5": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MRH1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SKN1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PTM1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "COY1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "KSP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SNF1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "STE20": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TOR1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YPK2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SKY1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TOR2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CMP2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "GLC7": {
+    "Cluster_Name": "26 * RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "PTC4": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ARF1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "RHO1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "RHO3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "RAS1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "RXT2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "LCD1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "ASG1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TRA1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HIR3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CDC16": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SGT2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "STI1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SKI3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CYC8": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YMR185W": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "GCN20": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SBP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "GBP2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HEK2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PAT1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MRN1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MTC1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SNU13": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "U3"
+  },
+  "UTP9": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPA"
+  },
+  "NAN1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPA"
+  },
+  "UTP13": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPB"
+  },
+  "UTP6": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "UTPB"
+  },
+  "IMP3": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "MPP10"
+  },
+  "SAS10": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5ETS"
+  },
+  "UTP7": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5ETS"
+  },
+  "SOF1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5ETS"
+  },
+  "FCF2": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5ETS"
+  },
+  "UTP11": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5ETS"
+  },
+  "BUD21": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5ETS"
+  },
+  "FCF1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5ETS"
+  },
+  "EFG1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5="
+  },
+  "BUD22": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5="
+  },
+  "ENP2": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "no"
+  },
+  "ESF2": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5="
+  },
+  "HCA4": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "5= Hel"
+  },
+  "GAR1": {
+    "Cluster_Name": "H/ACA_snoRNP",
+    "SubCluster_Name": "90S-C= HACA"
+  },
+  "NOP10": {
+    "Cluster_Name": "H/ACA_snoRNP",
+    "SubCluster_Name": "90S-C= HACA"
+  },
+  "CKB1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C"
+  },
+  "ROK1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C Hel"
+  },
+  "MRD1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C="
+  },
+  "NOP9": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "C="
+  },
+  "NOP6": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "3="
+  },
+  "EMG1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "UTP30": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "BMS1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "RCL1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "NOC4": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "RRT14": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "FAF1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "late"
+  },
+  "RRP36": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "UTP25": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "NOP19": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "FYV7": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "PXR1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "SQS1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor, PFA1 Prp43-binding"
+  },
+  "SEN1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "3 processing, 90S-minor"
+  },
+  "SGD1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "SLX9": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "CMS1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "BUD23": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "TRM112": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "FHL1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor, RRBe_put"
+  },
+  "SPP382": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "TMA23": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "YAR1": {
+    "Cluster_Name": "90S",
+    "SubCluster_Name": "minor"
+  },
+  "DHR2": {
+    "Cluster_Name": "90S Hel",
+    "SubCluster_Name": "no"
+  },
+  "FAL1": {
+    "Cluster_Name": "90S Hel",
+    "SubCluster_Name": "no"
+  },
+  "DBP8": {
+    "Cluster_Name": "90S Hel",
+    "SubCluster_Name": "no"
+  },
+  "RIO1": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "minor"
+  },
+  "FAP7": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "minor"
+  },
+  "TSR2": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "minor"
+  },
+  "DRS2": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "minor"
+  },
+  "HCR1": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF3j, pre40S-minor"
+  },
+  "TSR4": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "related"
+  },
+  "TSR3": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "related"
+  },
+  "SAC3": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "related"
+  },
+  "MOG1": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "related"
+  },
+  "PRP4": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "related"
+  },
+  "LSM6": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "related"
+  },
+  "LSM7": {
+    "Cluster_Name": "pre40S",
+    "SubCluster_Name": "related"
+  },
+  "NOP15": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D1 A3C-E0L"
+  },
+  "RPF1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D2-E0M Brix"
+  },
+  "MAK16": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D2-E0M"
+  },
+  "RRP1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D2 A3-E0E1"
+  },
+  "RPF2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D5 B-E0L Brix"
+  },
+  "NOP53": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D6 ITS1-ML"
+  },
+  "RRB1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D7-E0M minor"
+  },
+  "SSF2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D7-E1E2 Brix"
+  },
+  "RRP15": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D7-E1 minor"
+  },
+  "DBP9": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D7-E1E2 Hel"
+  },
+  "YBL028C": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "E2L-minor-YBC8"
+  },
+  "MAK5": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "E2E2 Hel"
+  },
+  "SPB1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "E2M Mod"
+  },
+  "SPB4": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "E2E2 B Hel"
+  },
+  "RSA4": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ITS1-ML MDN1-sub"
+  },
+  "RIX1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ITS1-ML IPI"
+  },
+  "IPI1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ITS1-ML IPI"
+  },
+  "IPI3": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ITS1-ML IPI"
+  },
+  "ALB1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "MC Arx1-binder"
+  },
+  "AFG2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ML AAA+ Drg1"
+  },
+  "BUD20": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "ML-minor"
+  },
+  "MEX67": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "L"
+  },
+  "MTR2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "L"
+  },
+  "JJJ1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "L c"
+  },
+  "RIA1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "L GTPase Efl1"
+  },
+  "XRN1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "5exoRNase B1S XRN1 minor"
+  },
+  "RAT1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "5exoRNase B1S C1"
+  },
+  "RAI1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "Rat1-partner"
+  },
+  "RRP17": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "5exoRNase B1S C1"
+  },
+  "RNH70": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "3exoRNase REX1 6S"
+  },
+  "NGL2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "RNase Ccr4-like 5.8S+5"
+  },
+  "REX4": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "RNase"
+  },
+  "ERP2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "CGR1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "RSA1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "CD biogenesis",
+    "Details": "60S-minor,NUFIP, "
+  },
+  "TMA16": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "GRC3": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor, RRB_RNA5kinase"
+  },
+  "LAS1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "JIP5": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "BCP1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "SNU66": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "SYO1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "RCM1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor-RCM1"
+  },
+  "BMT2": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor-BMT2-YBZ1"
+  },
+  "BMT5": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor-BMT5, RRB_unknown"
+  },
+  "BMT6": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor-BMT6"
+  },
+  "HPM1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "CRM1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "NOP8": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "URB minor"
+  },
+  "DBP6": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "URB E1E1 Hel"
+  },
+  "NPA3": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "CFD1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "CIA1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "NAR1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "SDO1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "C"
+  },
+  "SRD1": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "minor"
+  },
+  "MTR4": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "Hel"
+  },
+  "DBP7": {
+    "Cluster_Name": "60S",
+    "SubCluster_Name": "D7 Hel"
+  },
+  "RPS0B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS2, SSU CH 2"
+  },
+  "RPS4B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS4, SSU+ 5C"
+  },
+  "RPS6B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS6, SSU+ 5 1"
+  },
+  "RPS8B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS8, SSU+ 5 1"
+  },
+  "RPS9B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS4, SSU+ 5C 1"
+  },
+  "RPS11B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS17, SSU+ 5C 1"
+  },
+  "RPS14B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS11, SSU+ C 1"
+  },
+  "RPS16B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS9, SSU+ H 1"
+  },
+  "RPS17B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS17, SSU? H"
+  },
+  "RPS18B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS13, SSU? H 2"
+  },
+  "RPS19B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS19, SSU? H 2"
+  },
+  "RPS21B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS21, SSU 5CH"
+  },
+  "RPS22B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS8, SSU+ C 3"
+  },
+  "RPS23B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS12, SSU+ 5C 1"
+  },
+  "RPS24A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS24, SSU+ 5C 1"
+  },
+  "RPS24B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS24, SSU+ 5C 1"
+  },
+  "RPS26B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS26, SSU- C 3"
+  },
+  "RPS27B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS27, SSU+ C 1"
+  },
+  "RPS29B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "uS14, SSU H 3"
+  },
+  "RPS30A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS30, SSU+ 5 3"
+  },
+  "RPS30B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "SSU",
+    "Details": "eS30, SSU+ 5 3"
+  },
+  "RPL1B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL1, LSU D5 H76"
+  },
+  "RPL2B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL2, LSU D4D5d3"
+  },
+  "RPL4B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL4, LSU D2d1 tail"
+  },
+  "RPL9B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL6, LSU D6"
+  },
+  "RPL11B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL5, LSU D55S B"
+  },
+  "RPL12B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL11, LSU D2"
+  },
+  "RPL14B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL14, LSU d6d1"
+  },
+  "RPL17B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL22, LSU D1d2-6"
+  },
+  "RPL18B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL18, LSU D2"
+  },
+  "RPL19B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL19, LSU D3d4"
+  },
+  "RPL20B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL20, LSU D25Sd1"
+  },
+  "RPL21B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL21, LSU D5d2"
+  },
+  "RPL22A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL22, LSU ? D3 nu Ass-?"
+  },
+  "RPL22B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL22, LSU D3"
+  },
+  "RPL23B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL14, LSU d6d4d5"
+  },
+  "RPL27B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL27, LSU D3"
+  },
+  "RPL29": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL29, LSU - D2d5 cy extended Ass-NO"
+  },
+  "RPL31B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL31, LSU D6d3"
+  },
+  "RPL33B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL33, LSU d1d2d6"
+  },
+  "RPL35B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "uL29, LSU D1 tail"
+  },
+  "RPL37B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL37, LSU D1"
+  },
+  "RPL39": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL39, LSU C2 D1D3 ln Ass-?"
+  },
+  "RPL40A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL40, LSU C2 D5d6d2 cy Ass-?"
+  },
+  "RPL40B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL40, LSU D5d6d2 cy"
+  },
+  "RPL41A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL41, LSU ? D4 ? Ass-?"
+  },
+  "RPL41B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL41, LSU D4"
+  },
+  "RPL42B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL42, LSU D5 cy"
+  },
+  "RPL43B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "eL43, LSU D3D4"
+  },
+  "RPP1A": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "P1, LSU C2 P cy Ass-?"
+  },
+  "RPP1B": {
+    "Cluster_Name": "Ribosome",
+    "SubCluster_Name": "LSU",
+    "Details": "P1, LSU P cy"
+  },
+  "SUI1": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF1"
+  },
+  "TIF11": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF1A"
+  },
+  "GCD1": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF2Bgamma"
+  },
+  "TIF35": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF3g"
+  },
+  "TIF34": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF3i"
+  },
+  "TIF4632": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF4G2"
+  },
+  "TIF3": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF4B"
+  },
+  "TIF5": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF5"
+  },
+  "ANB1": {
+    "Cluster_Name": "Eukaryotic_initiation_factors",
+    "SubCluster_Name": "ribo-eIF5A2"
+  },
+  "EFB1": {
+    "Cluster_Name": "Eukaryotic_elongation_factors",
+    "SubCluster_Name": "ribo-eEF1Balpha"
+  },
+  "HEF3": {
+    "Cluster_Name": "Eukaryotic_elongation_factors",
+    "SubCluster_Name": "ribo-eEF3B"
+  },
+  "SUP35": {
+    "Cluster_Name": "Eukaryotic_elongation_factors",
+    "SubCluster_Name": "ribo-eEF3"
+  },
+  "NAT5": {
+    "Cluster_Name": "ribo-NatA",
+    "SubCluster_Name": "Nascent_polypeptide"
+  },
+  "DBP1": {
+    "Cluster_Name": "ribo-Hel",
+    "SubCluster_Name": "no"
+  },
+  "IKI3": {
+    "Cluster_Name": "Elongator",
+    "SubCluster_Name": "no"
+  },
+  "ELP2": {
+    "Cluster_Name": "Elongator",
+    "SubCluster_Name": "no"
+  },
+  "ELP4": {
+    "Cluster_Name": "Elongator",
+    "SubCluster_Name": "no"
+  },
+  "IKI1": {
+    "Cluster_Name": "Elongator",
+    "SubCluster_Name": "no"
+  },
+  "ELP6": {
+    "Cluster_Name": "Elongator",
+    "SubCluster_Name": "no"
+  },
+  "AAH1": {
+    "Cluster_Name": "RRB_put",
+    "SubCluster_Name": "no"
+  },
+  "ATC1": {
+    "Cluster_Name": "RRB_AIP3",
+    "SubCluster_Name": "no"
+  },
+  "DPH2": {
+    "Cluster_Name": "RRB_put",
+    "SubCluster_Name": "no"
+  },
+  "GCD10": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "GCD14": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "HMT1": {
+    "Cluster_Name": "RRB_ArgMTase",
+    "SubCluster_Name": "no"
+  },
+  "LIA1": {
+    "Cluster_Name": "RRB_deoxyhypusine",
+    "SubCluster_Name": "no"
+  },
+  "NCL1": {
+    "Cluster_Name": "RRB_m5CMTase",
+    "SubCluster_Name": "no"
+  },
+  "NCS2": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "NRP1": {
+    "Cluster_Name": "RRB_put",
+    "SubCluster_Name": "no"
+  },
+  "NUC1": {
+    "Cluster_Name": "RRB_RNase",
+    "SubCluster_Name": "no"
+  },
+  "PPT1": {
+    "Cluster_Name": "RRB_phosphatase",
+    "SubCluster_Name": "no"
+  },
+  "PRO1": {
+    "Cluster_Name": "RRB_put",
+    "SubCluster_Name": "no"
+  },
+  "PRS3": {
+    "Cluster_Name": "RRB_enzy",
+    "SubCluster_Name": "no"
+  },
+  "PRS4": {
+    "Cluster_Name": "RRB_enzy",
+    "SubCluster_Name": "no"
+  },
+  "PUS1": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "PUS7": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "RBG1": {
+    "Cluster_Name": "RRB_GTPase",
+    "SubCluster_Name": "no"
+  },
+  "RET1": {
+    "Cluster_Name": "RNAP_III",
+    "SubCluster_Name": "RRB_Pol3"
+  },
+  "RKI1": {
+    "Cluster_Name": "RRB_enzy",
+    "SubCluster_Name": "no"
+  },
+  "RMT2": {
+    "Cluster_Name": "RRB_ArgMT",
+    "SubCluster_Name": "no"
+  },
+  "RNT1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "RRB_RNase * RNaseIII"
+  },
+  "SRP40": {
+    "Cluster_Name": "RRB_put",
+    "SubCluster_Name": "no"
+  },
+  "TRM1": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "TRM2": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "TRM5": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "TRM8": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "TRM82": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "URK1": {
+    "Cluster_Name": "RRB_enzy",
+    "SubCluster_Name": "no"
+  },
+  "TOD6": {
+    "Cluster_Name": "RRB_TF",
+    "SubCluster_Name": "no"
+  },
+  "YBR238C": {
+    "Cluster_Name": "RRB_RMD9L",
+    "SubCluster_Name": "no"
+  },
+  "EFM2": {
+    "Cluster_Name": "RRB_unknown",
+    "SubCluster_Name": "no"
+  },
+  "YCR016W": {
+    "Cluster_Name": "RRB_unknown",
+    "SubCluster_Name": "no"
+  },
+  "ACL4": {
+    "Cluster_Name": "RRB_TPR",
+    "SubCluster_Name": "no"
+  },
+  "TPA1": {
+    "Cluster_Name": "RRB_enzy",
+    "SubCluster_Name": "no"
+  },
+  "YGR283C": {
+    "Cluster_Name": "RRB_unknown",
+    "SubCluster_Name": "no"
+  },
+  "EFM1": {
+    "Cluster_Name": "RRB_LysMT",
+    "SubCluster_Name": "no"
+  },
+  "EFM4": {
+    "Cluster_Name": "RRB_LysMT",
+    "SubCluster_Name": "no"
+  },
+  "MRX12": {
+    "Cluster_Name": "RRB_mito",
+    "SubCluster_Name": "no"
+  },
+  "YMR310C": {
+    "Cluster_Name": "RRB_unknown",
+    "SubCluster_Name": "no"
+  },
+  "YNL247W": {
+    "Cluster_Name": "RRB_tRNAlig",
+    "SubCluster_Name": "no"
+  },
+  "TRM11": {
+    "Cluster_Name": "RRB_tRNAmod",
+    "SubCluster_Name": "no"
+  },
+  "SFM1": {
+    "Cluster_Name": "RRB_unknown",
+    "SubCluster_Name": "no"
+  },
+  "RPC31": {
+    "Cluster_Name": "RNAP_III",
+    "SubCluster_Name": "RRB_Pol3"
+  },
+  "RPC25": {
+    "Cluster_Name": "RNAP_III",
+    "SubCluster_Name": "RRB_Pol3"
+  },
+  "POP1": {
+    "Cluster_Name": "RNAse_P/MRP",
+    "SubCluster_Name": "no"
+  },
+  "POP3": {
+    "Cluster_Name": "RNAse_P/MRP",
+    "SubCluster_Name": "no"
+  },
+  "POP4": {
+    "Cluster_Name": "RNAse_P/MRP",
+    "SubCluster_Name": "no"
+  },
+  "POP5": {
+    "Cluster_Name": "RNAse_P/MRP",
+    "SubCluster_Name": "no"
+  },
+  "POP6": {
+    "Cluster_Name": "RNAse_P/MRP",
+    "SubCluster_Name": "no"
+  },
+  "POP7": {
+    "Cluster_Name": "RNAse_P/MRP",
+    "SubCluster_Name": "no"
+  },
+  "POP8": {
+    "Cluster_Name": "RNAse_P/MRP",
+    "SubCluster_Name": "no"
+  },
+  "RPP1": {
+    "Cluster_Name": "RNAse_P/MRP",
+    "SubCluster_Name": "no"
+  },
+  "RMP1": {
+    "Cluster_Name": "RNase MRP",
+    "SubCluster_Name": "no"
+  },
+  "SNM1": {
+    "Cluster_Name": "RNase MRP",
+    "SubCluster_Name": "no"
+  },
+  "RPR2": {
+    "Cluster_Name": "RNAse_P",
+    "SubCluster_Name": "no"
+  },
+  "CSL4": {
+    "Cluster_Name": "exosome_c10",
+    "SubCluster_Name": "no"
+  },
+  "RRP40": {
+    "Cluster_Name": "exosome_c10",
+    "SubCluster_Name": "no"
+  },
+  "RRP42": {
+    "Cluster_Name": "exosome_c10",
+    "SubCluster_Name": "no"
+  },
+  "RRP45": {
+    "Cluster_Name": "exosome_c10",
+    "SubCluster_Name": "no"
+  },
+  "DIS3": {
+    "Cluster_Name": "exosome_c10, Rrp44",
+    "SubCluster_Name": "no"
+  },
+  "LRP1": {
+    "Cluster_Name": "exosome_nu, C1D,RRP47",
+    "SubCluster_Name": "no"
+  },
+  "MPP6": {
+    "Cluster_Name": "exosome_nu",
+    "SubCluster_Name": "no"
+  },
+  "AIR1": {
+    "Cluster_Name": "TRAMP",
+    "SubCluster_Name": "no"
+  },
+  "AIR2": {
+    "Cluster_Name": "TRAMP",
+    "SubCluster_Name": "no"
+  },
+  "PAP2": {
+    "Cluster_Name": "TRAMP, Trf4",
+    "SubCluster_Name": "no"
+  },
+  "TRF5": {
+    "Cluster_Name": "TRAMP",
+    "SubCluster_Name": "no"
+  },
+  "PUB1": {
+    "Cluster_Name": "PA-binding, nuclear and cyto",
+    "SubCluster_Name": "no"
+  },
+  "NAB2": {
+    "Cluster_Name": "PA-binding, nuclear",
+    "SubCluster_Name": "no"
+  },
+  "NAB3": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "PA-binding, nuclear * 3 processing"
+  },
+  "RPO26": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "no"
+  },
+  "RPB8": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "no"
+  },
+  "RPC10": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "no"
+  },
+  "RPB10": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "no"
+  },
+  "RPA14": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "Pol1_RRBe"
+  },
+  "RPA12": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "Pol1_RRB"
+  },
+  "RRN11": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "RRB_Pol1TF"
+  },
+  "RRN3": {
+    "Cluster_Name": "RNAP_I",
+    "SubCluster_Name": "RRB_Pol1TF"
+  },
+  "RPC34": {
+    "Cluster_Name": "RNAP_III",
+    "SubCluster_Name": "RRB_Pol3"
+  },
+  "RPC11": {
+    "Cluster_Name": "RNAP_III",
+    "SubCluster_Name": "RRBe_Pol3"
+  },
+  "RRN7": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "RPO31": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "UAF30": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "LSM1": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "LSM2": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "RNA1": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "RRN6": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "MRM1": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "SFP1": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "IFH1": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "MRM2": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "RRN5": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "SSU72": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "RRN9": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "LSM8": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "LSM5": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "RRN10": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "PUS5": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "YME2": {
+    "Cluster_Name": "RRBe_put",
+    "SubCluster_Name": "no"
+  },
+  "SSA3": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "ribo-chaperone"
+  },
+  "LHS1": {
+    "Cluster_Name": "Hsp70s_co-factors",
+    "SubCluster_Name": "homolog"
+  },
+  "PRP8": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "BRR2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "IMD2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SWD2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HCH1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TCM62": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CNS1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CDC37": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "UMP1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CPR6": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "CPR7": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "HSP78": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "JAC1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PAC2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SGT1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "SBA1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "JEM1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "TDH1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "VMA4": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "YIL059C": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "VPS8": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PCK1": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "GPM3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "GPM2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "PYC2": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  },
+  "MCM2": {
+    "Cluster_Name": "MCM",
+    "SubCluster_Name": "no"
+  },
+  "MCM3": {
+    "Cluster_Name": "MCM",
+    "SubCluster_Name": "no"
+  },
+  "MCM5": {
+    "Cluster_Name": "MCM",
+    "SubCluster_Name": "no"
+  },
+  "MCM7": {
+    "Cluster_Name": "MCM",
+    "SubCluster_Name": "no"
+  },
+  "OTU2": {
+    "Cluster_Name": "40S-put",
+    "SubCluster_Name": "no"
+  },
+  "NAF1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "H/ACA_biogeneis"
+  },
+  "BCD1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "ZNHIT6, CD biogenesis"
+  },
+  "HIT1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "ZNHIT3, CD biogenesis"
+  },
+  "TGS1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "m3G"
+  },
+  "STO1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "CBP80, cap-binding"
+  },
+  "NRD1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "3 processing"
+  },
+  "CEG1": {
+    "Cluster_Name": "snoRNP_biogenesis",
+    "SubCluster_Name": "guanyl transferase"
+  },
+  "SEN34": {
+    "Cluster_Name": "tRNA-splicing_complex",
+    "SubCluster_Name": "3prime"
+  },
+  "SEN2": {
+    "Cluster_Name": "tRNA-splicing_complex",
+    "SubCluster_Name": "5prime"
+  },
+  "SEN15": {
+    "Cluster_Name": "tRNA-splicing_complex",
+    "SubCluster_Name": "no"
+  },
+  "SEN54": {
+    "Cluster_Name": "tRNA-splicing_complex",
+    "SubCluster_Name": "no"
+  },
+  "TRZ1": {
+    "Cluster_Name": "EndoRNase, tRNA 3 processing, lethal",
+    "SubCluster_Name": "no"
+  },
+  "YSH1": {
+    "Cluster_Name": "EndoRNase, nuclear, lethal",
+    "SubCluster_Name": "no"
+  },
+  "SMT3": {
+    "Cluster_Name": "unclassified",
+    "SubCluster_Name": "no"
+  }
+}
