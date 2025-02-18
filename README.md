@@ -5,7 +5,7 @@ Used for MS Data processing and analysis.
 ### yeast_protein_table_generation.py
 Generate maps linking UniProtID to various protein annotations, output is a json file:<br>
 Key<br>
-  - UniProt_ID<br>
+  - UniProt_ID
 Values<br>
   - Description
   - Gene_Name
