@@ -16,7 +16,7 @@ Generate maps linking UniProtID to various protein annotations, output is a json
 #### Sources of annotation<br>
 UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/uniprot_sprot.fasta.gz<br>
 -  UniProt_ID
--  Description<br>
+-  Description
 UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/docs/yeast.txt<br>
 - Gene_Name(if multiple names exist, record the 1st one)
 - OLN(Ordered locus name)
