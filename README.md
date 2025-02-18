@@ -16,15 +16,15 @@ Generate maps linking UniProtID to various protein annotations, output is a json
 #### Sources of annotation<br>
 UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/uniprot_sprot.fasta.gz<br>
 -  UniProt_ID
--  Description<br> 
+-  Description<br>
 UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/docs/yeast.txt<br>
 - Gene_Name(if multiple names exist, record the 1st one)
 - OLN(Ordered locus name)
 - SGD_ID
 - Structure(if related structures solved)
-- Residu_Number<br> 
+- Residu_Number<br>
 UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/idmapping/by_organism/YEAST_559292_idmapping_selected.tab.gz<br>
-- GO<br> 
+- GO<br>
 KEGG: see class KEGG_DataBase()<br>
 - Cluster_Name -> KEGG<br>
 Complex Portal: https://ftp.ebi.ac.uk/pub/databases/intact/complex/current/complextab/559292.tsv<br>
