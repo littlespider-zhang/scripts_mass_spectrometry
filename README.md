@@ -13,7 +13,7 @@ UniProt_ID<br>
   - GO
   - Cluster_Name
 
-####Sources of annotation<br>
+#### Sources of annotation<br>
 UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/uniprot_sprot.fasta.gz<br>
 -  UniProt_ID
 -  Description
@@ -26,7 +26,7 @@ UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/
 UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/idmapping/by_organism/YEAST_559292_idmapping_selected.tab.gz<br>
 - GO
 Custom files:<br>
-- Cluster_Name
-####Notice<br>
-- write_name_oln_sgdid_structure_resinum(): protein P10081，P02994，P32324，P02309 have 2 gene locus
+- Cluster_Name<br>
+#### Notice<br>
+- write_name_oln_sgdid_structure_resinum(): protein P10081，P02994，P32324，P02309 have 2 gene locus, so there are 2 OLN records.
 
