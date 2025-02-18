@@ -3,10 +3,8 @@ Used for MS Data processing and analysis.
 
 ## Notes
 ### yeast_protein_table_generation.py
-Generate maps linking UniProtID to various protein annotations, output is a json file:<br>
-Key<br>
+Generate maps linking UniProtID to various protein annotations, output is a json file including following information:<br>
   - UniProt_ID
-Values<br>
   - Description
   - Gene_Name
   - OLN
@@ -23,7 +21,7 @@ UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/
 - Gene_Name(if multiple names exist, record the 1st one)
 - OLN(Ordered locus name)
 - SGD_ID
-- Structure
+- Structure(if related structures solved)
 - Residu_Number
 UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/idmapping/by_organism/YEAST_559292_idmapping_selected.tab.gz<br>
 - GO
