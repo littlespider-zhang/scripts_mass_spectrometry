@@ -13,6 +13,7 @@ Generate maps linking UniProtID to various protein annotations, output is a json
   - GO
   - Cluster_KEGG
   - Cluster_Complex_Portal
+  - Cluster_Custom
 
 #### Sources of annotation<br>
 ##### UniProtKB: https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/uniprot_sprot.fasta.gz<br>
@@ -30,6 +31,8 @@ Generate maps linking UniProtID to various protein annotations, output is a json
 - Cluster_KEGG
 ##### Complex Portal: https://ftp.ebi.ac.uk/pub/databases/intact/complex/current/complextab/559292.tsv<br>
 - Cluster_Complex_Portal
+##### Custom defined clusters: db_custom_cluster.txt
+- Cluster_Custom
 #### Notice<br>
 - class KEGG_DataBase() is used to generate local KEGG database using KEGG API, but it will not be updated unless manually operated.
 - write_name_oln_sgdid_structure_resinum(): protein P10081，P02994，P32324，P02309 have 2 gene locus, so there are 2 OLN records.
