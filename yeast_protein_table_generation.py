@@ -140,6 +140,18 @@ class DataBases():
         # empty table
         self.table = dict()
 
+        # table infos
+        self.table_values = {"Gene_Name": '',
+                             "Description": '',
+                             "OLN": '',
+                             "SGD_ID": '',
+                             "Structure": '',
+                             "Residue_Number": 0,
+                             "GO": '',
+                             "Cluster_KEGG": '',
+                             "Cluster_Complex_Portal": '',
+                            }
+
         print('*' * 50)
         print(f"Makeing tables for all proteins of TaxID:{self.table}.")
         print('*' * 50)
@@ -193,6 +205,17 @@ class DataBases():
 
     def write_name_oln_sgdid_structure_resinum(self):
         print("Writing Gene Name, OLN, SGD_ID, Structure Solved infos ..")
+        # Make place
+        current_ids = self.table.keys()
+        for uni_ID in current_ids:
+            self.table[uni_ID]['Gene_Name'] = ''
+            self.table[uni_ID]['OLN'] = ''
+            self.table[uni_ID]['SGD_ID'] = ''
+            self.table[uni_ID]['Structure'] = ''
+            self.table[uni_ID]['Residue_Number'] = 0
+        
+        
+        # Start write infos
         start_at = 58   # Base on the file, becareful
         end_at = -5 # Base on the file, becareful
         with open(self.SGD_info, encoding='utf-8') as f:
@@ -221,23 +244,22 @@ class DataBases():
                     SGD_ID = j[-3]  # SGD_ID get!
                     resi_num = j[-2]  # residue number get!
 
+                # Check if uni_ID is in self.table already
+                if uni_ID not in current_ids:
+                    self.table[uni_ID] = dict()
+                    self.table[uni_ID] = self.table_values
+
                 # Multi OLN for A protein exist
-                try:
-                    check = self.table[uni_ID]['OLN']
-                    self.table[uni_ID]['OLN'] += f",{oln}"
-                except:
+                if self.table[uni_ID]['OLN'] != '':
+                        self.table[uni_ID]['OLN'] += f",{oln}"
+                else:
                     self.table[uni_ID]['OLN'] = oln
 
-                # Add other infos
-                try:
-                    self.table[uni_ID]['Gene_Name'] = gene_name
-                    self.table[uni_ID]['SGD_ID'] = SGD_ID
-                    self.table[uni_ID]['Structure'] = structure
-                    self.table[uni_ID]['Residue_Number'] = int(resi_num)
-                except:
-                    print(f"\t{uni_ID} in {self.SGD_info} not found currently, added now...")
-                    self.table[uni_ID] = dict()
-                    self.table[uni_ID]['Note'] = f'No info in {self.SGD_info}\n'
+                self.table[uni_ID]['Gene_Name'] = gene_name
+                self.table[uni_ID]['SGD_ID'] = SGD_ID
+                self.table[uni_ID]['Structure'] = structure
+                self.table[uni_ID]['Residue_Number'] = int(resi_num)
+
 
         # Manually curated for TIF1, TEF1, EFT1 & HHF1
         # They are the same proteins with ***2 but located in other place in the genome
@@ -251,6 +273,12 @@ class DataBases():
 
     def write_GO(self):
         print(f"Writing GO infos ...")
+        # Make place
+        current_ids = self.table.keys()
+        for uni_ID in self.table.keys():
+            self.table[uni_ID]['GO'] = ''
+
+        # Start writing infos
         with open(self.GO_info, encoding='utf-8') as f:
             lines = f.readlines()
             for i in range(len(lines)):
@@ -263,32 +291,47 @@ class DataBases():
                 if 'GO' not in GO_ID_list:
                     GO_ID_list = ''
 
-                try:
-                    self.table[uni_ID]['GO'] = GO_ID_list
-                except:
-                    print(f"\t{uni_ID} in {self.GO_info} not found currently, added now...")
+                # Check if uni_ID is in self.table already
+                if uni_ID not in current_ids:
                     self.table[uni_ID] = dict()
-                    self.table[uni_ID]['Note'] = f'No info in {self.GO_info}\n'
+                    self.table[uni_ID] = self.table_values
+
+
+                self.table[uni_ID]['GO'] = GO_ID_list
+
         print('Done!')
 
     def write_KEGG(self):
         print("Writing KEGG module infos ..")
+        # Make place
+        current_ids = self.table.keys()
+        for uni_ID in self.table.keys():
+            self.table[uni_ID]['Cluster_KEGG'] = ''
+
+        # Start writing infos
         with open(self.KEGG, 'r', encoding='utf-8') as f:
             KEGG_table = json.load(f)
             for uni_ID in KEGG_table.keys():
-                try:
-                    check = self.table[uni_ID]
-                    self.table[uni_ID]['Cluster_KEGG'] = KEGG_table[uni_ID]['Module_Name']
-                except:
-                    print(f"\t{uni_ID} in {self.KEGG} not found currently, added now...")
+
+                # Check if uni_ID is in self.table already
+                if uni_ID not in current_ids:
                     self.table[uni_ID] = dict()
-                    self.table[uni_ID]['Note'] = f'No info in {self.KEGG}\n'
+                    self.table[uni_ID] = self.table_values
+
+                self.table[uni_ID]['Cluster_KEGG'] = KEGG_table[uni_ID]['Module_Name']
+
 
 
         print('Done.')
 
     def write_Complex_Portal(self):
         print("Writing Complex_Portal infos ..")
+        # Make place
+        current_ids = self.table.keys()
+        for uni_ID in self.table.keys():
+            self.table[uni_ID]['Cluster_Complex_Portal'] = ''
+
+        # Start writing infos
         with open(self.complex_portal, encoding='utf-8') as f:
             lines = f.readlines()
             for i in range(1,len(lines)):
@@ -312,14 +355,17 @@ class DataBases():
                 complex_name = x[1]
 
                 for uni_ID in uni_IDs:
-                    # print(f"uni_ID: {uni_ID}\t{complex_name}")
-
-                    try:
-                        self.table[uni_ID]['Cluster_Complex_Portal'] = complex_name
-                    except:
-                        print(f"\t{uni_ID} in {self.complex_portal} not found currently ...")
+                    # Check if uni_ID is in self.table already
+                    if uni_ID not in current_ids:
                         self.table[uni_ID] = dict()
-                        self.table[uni_ID]['Note'] = f'No info in {self.GO_info}\n'
+                        self.table[uni_ID] = self.table_values
+
+                    # print(f"uni_ID: {uni_ID}\t{complex_name}")
+                    if self.table[uni_ID]['Cluster_Complex_Portal'] != '':
+                        self.table[uni_ID]['Cluster_Complex_Portal'] += f",{complex_name}"
+                    else:
+                        self.table[uni_ID]['Cluster_Complex_Portal'] = complex_name
+
         print('Done!')
 
     def write_all(self):
@@ -328,6 +374,33 @@ class DataBases():
         self.write_GO()
         self.write_KEGG()
         self.write_Complex_Portal()
+
+    def record_protein_isoforms(self):
+        print("Recording protein isoforms from Complex_Portal infos ..")
+        isoforms = ''
+        with open(self.complex_portal, encoding='utf-8') as f:
+            lines = f.readlines()
+            for i in range(1, len(lines)):
+                x = lines[i].split('\t')
+                complex_name = x[1]
+
+                uni_IDs = [z.split('(')[0] for z in x[4].split(')|')]
+                uni_IDs = [id for id in uni_IDs if "URS" not in id]
+                uni_IDs = [id for id in uni_IDs if "CPX" not in id]
+                uni_IDs = [id for id in uni_IDs if "CHEBI" not in id]
+                uni_IDs = [id for id in uni_IDs if "EBI" not in id]
+                current = len(uni_IDs)
+                for index in range(current):
+                    if '-PRO_' in uni_IDs[index]:
+                        uni_IDs[index] = uni_IDs[index].split('-PRO_')[0]
+
+                    if '[' in uni_IDs[index]:
+                        isoforms += f"{uni_IDs[index]}\t{complex_name}\n"
+
+        with open('1_isoforms_from_complex_portal.txt', 'w', encoding='utf-8') as f:
+            f.write(isoforms)
+
+        print('Done!')
 
     def table2json(self,file_name="0_yeast_protein_table.json"):
         # Writing to json file
@@ -341,6 +414,5 @@ class DataBases():
 
 if __name__ == '__main__':
     dbs = DataBases()
-    # dbs.write_Complex_Portal()
     dbs.write_all()
     dbs.table2json("0_yeast_protein_table.json")
