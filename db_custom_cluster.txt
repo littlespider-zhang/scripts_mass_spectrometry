@@ -1,0 +1,3 @@
+UniProtID=>Cluster_custom=>Gene_Name
+Q12460=>90S-U3=>NOP56
+Q12499=>90S-U3=>NOP58
