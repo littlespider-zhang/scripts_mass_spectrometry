@@ -136,12 +136,19 @@ class DataBases():
         # Generated from class KEGG_DataBase()
         self.KEGG = 'db_sce_KEGG_module_table.json'
         # self.cluster_map_file = '0_customized_protein_clusters_2500118.json'
+        # Manually curated cluster
+        self.custom='db_custom_cluster.txt'
 
         # empty table
         self.table = dict()
 
-        # table infos
-        self.table_values = {"Gene_Name": '',
+
+        print('*' * 50)
+        print(f"Makeing tables for all proteins of TaxID:{self.table}.")
+        print('*' * 50)
+
+    def empty_table_values(self):
+        return {"Gene_Name": '',
                              "Description": '',
                              "OLN": '',
                              "SGD_ID": '',
@@ -150,12 +157,9 @@ class DataBases():
                              "GO": '',
                              "Cluster_KEGG": '',
                              "Cluster_Complex_Portal": '',
+                             "Cluster_Custom": '',
                             }
-
-        print('*' * 50)
-        print(f"Makeing tables for all proteins of TaxID:{self.table}.")
-        print('*' * 50)
-
+    
     def update_db(self):
         pass
 
@@ -189,7 +193,7 @@ class DataBases():
                 OS_loc = x[2].find('OS=')
                 y = x[2][:OS_loc].split(' ')
                 description = ' '.join(y[1:]).strip()  # protein description get!
-                self.table[uni_ID] = dict()
+                self.table[uni_ID] = self.empty_table_values()
                 self.table[uni_ID]['Description'] = description
 
                 # yeast_table[uni_ID]['Gene_Name'] = ''
@@ -207,14 +211,8 @@ class DataBases():
         print("Writing Gene Name, OLN, SGD_ID, Structure Solved infos ..")
         # Make place
         current_ids = self.table.keys()
-        for uni_ID in current_ids:
-            self.table[uni_ID]['Gene_Name'] = ''
-            self.table[uni_ID]['OLN'] = ''
-            self.table[uni_ID]['SGD_ID'] = ''
-            self.table[uni_ID]['Structure'] = ''
-            self.table[uni_ID]['Residue_Number'] = 0
-        
-        
+
+
         # Start write infos
         start_at = 58   # Base on the file, becareful
         end_at = -5 # Base on the file, becareful
@@ -246,8 +244,7 @@ class DataBases():
 
                 # Check if uni_ID is in self.table already
                 if uni_ID not in current_ids:
-                    self.table[uni_ID] = dict()
-                    self.table[uni_ID] = self.table_values
+                    self.table[uni_ID] = self.empty_table_values()
 
                 # Multi OLN for A protein exist
                 if self.table[uni_ID]['OLN'] != '':
@@ -293,8 +290,7 @@ class DataBases():
 
                 # Check if uni_ID is in self.table already
                 if uni_ID not in current_ids:
-                    self.table[uni_ID] = dict()
-                    self.table[uni_ID] = self.table_values
+                    self.table[uni_ID] = self.empty_table_values()
 
 
                 self.table[uni_ID]['GO'] = GO_ID_list
@@ -315,8 +311,7 @@ class DataBases():
 
                 # Check if uni_ID is in self.table already
                 if uni_ID not in current_ids:
-                    self.table[uni_ID] = dict()
-                    self.table[uni_ID] = self.table_values
+                    self.table[uni_ID] = self.empty_table_values()
 
                 self.table[uni_ID]['Cluster_KEGG'] = KEGG_table[uni_ID]['Module_Name']
 
@@ -358,7 +353,7 @@ class DataBases():
                     # Check if uni_ID is in self.table already
                     if uni_ID not in current_ids:
                         self.table[uni_ID] = dict()
-                        self.table[uni_ID] = self.table_values
+                        self.table[uni_ID] = self.empty_table_values()
 
                     # print(f"uni_ID: {uni_ID}\t{complex_name}")
                     if self.table[uni_ID]['Cluster_Complex_Portal'] != '':
@@ -368,12 +363,26 @@ class DataBases():
 
         print('Done!')
 
+    def write_custome(self):
+        with open(self.custom, 'r') as f:
+            lines = f.readlines()
+            for l in lines[1:]:
+                a = l.split('=>')
+                uni_ID = a[0]
+                custom_cluster = a[1]
+
+                if self.table[uni_ID]["Cluster_Custom"] != '':
+                    self.table[uni_ID]["Cluster_Custom"] += f",{custom_cluster}"
+                else:
+                    self.table[uni_ID]["Cluster_Custom"] = custom_cluster
+
     def write_all(self):
         self.write_uniid_description()
         self.write_name_oln_sgdid_structure_resinum()
         self.write_GO()
         self.write_KEGG()
         self.write_Complex_Portal()
+        self.write_custome()
 
     def record_protein_isoforms(self):
         print("Recording protein isoforms from Complex_Portal infos ..")
