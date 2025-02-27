@@ -1,7 +1,7 @@
 # scripts_mass_spectrometry
 Used for MS Data processing and analysis.
 
-## Notes
+## Docs
 ### yeast_protein_table_generation.py
 Generate maps linking UniProtID to various protein annotations, output is a json file including following information:<br>
   - UniProt_ID
